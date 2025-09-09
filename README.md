@@ -85,9 +85,3 @@ _Projetos Desenvolvidos:_ Pedidos de Pizzas e Calculadora IMC
 
 _Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão._
 
-## <b>Entre em Contato</b>
-
-<a href="https://web.whatsapp.com/send?phone=+5511987654321&text=Olá%20vim%20%20pelo%20seu%20github,%20podemos%20conversar?" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98765--4321-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
-<a href="https://www.facebook.com/SEU PERFIL" target="_blank"><img src="https://img.shields.io/badge/Facebook-/SEU PERFIL-%230077B5?style=for-the-badge&logo=facebook&logoColor=ffffff"></a> &nbsp;
-<a href="mailto: SEU EMAIL@GMAIL.com"><img src="https://img.shields.io/badge/Email-SEU EMAIL@GMAIL.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp;
-<a href="https://www.linkedin.com/in/SEU PERFIL/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/SEU PERFIL-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
