@@ -21,14 +21,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit eos har
 
 ## Front-end Jr.
 
-Nome da Empresa Ago / 2023 - 2024
+- Telemont Feb / 2014 - 2016
 
 - Atividades desenvolvidas:
 - Exemplos de tarefas desenvolvidas:
 
 ## Front-end trainee.
 
-Nome da Empresa Abr / 2022 - 2023
+ - Serede Abr / 2016 - 2021
 
 - Atividades desenvolvidas:
 - Exemplos de tarefas desenvolvidas:
@@ -37,25 +37,23 @@ Nome da Empresa Abr / 2022 - 2023
 
 # <b>Estudos / Cursos</b>
 
-## Origamid - 2024 - 70 hrs
+## Curso em video - 2024 - 70 hrs
 
 ✔️ HTML / CSS / JS
 
 ✔️ Python/ Linux
 
-_Projetos Desenvolvidos:_ Bikcraft e Portfólio
+_Projetos Desenvolvidos:_ App em Django e Flask
 
 <br />
 
 ## B7Web - 2024 - 90 hrs
 
-✔️ HTML5 / CSS3 / JavaScript / TypeScript
+✔️ HTML5 / CSS3 / JavaScript / 
 
 ✔️ NodeJS / React / Next
 
-✔️ PHP / MySQL
-_Projetos Desenvolvidos:_ Pedidos de Pizzas e Calculadora IMC
-
+_Projetos Desenvolvidos:_ App de barbearia e Calculadore de fibra optica 
 <br /><br />
 
 # <b>Habilidades</b>
@@ -66,13 +64,11 @@ _Projetos Desenvolvidos:_ Pedidos de Pizzas e Calculadora IMC
 
 - ### JAVASCRIPT ⭐ ⭐ ⭐ ⭐ 4/10
 
-- ### TYPESCRIPT ⭐ ⭐ ⭐ ⭐ 4/10
-
 - ### TAILWINDCSS ⭐ ⭐ ⭐ ⭐ ⭐ 5/10
 
 - ### REACT / NEXT ⭐ ⭐ ⭐ 3/10
 
-- ### PHP ⭐ ⭐ ⭐ ⭐ 4/10
+- ### PYTHON ⭐ ⭐ ⭐ ⭐ 8/10
 
 <br /><br />
 
