@@ -1,4 +1,4 @@
-[![Banner](./img/banner-01.png)](https://google.com/)
+[![Banner](./img/banner-01.png)](https://google.com/)|!|
 
 <h1 align="center">👋 Hi, I'm <b>Bruno Araujo</b></h1>
 <h3 align="center">Front-end Developer | Back-end Developer</h3>
